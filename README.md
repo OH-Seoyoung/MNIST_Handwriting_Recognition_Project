@@ -11,11 +11,11 @@ Through this project, we will be able to discover another aspect of mathematics.
 
 
 ## Project Process
-1. 1~2 weeks : Setting goals and creating plans
-2. 3~4 weeks : To study the basic of Neural Network - loss function, gradient descent, backpropagation, softmax, etc.
-3. 5 week : Collecting the data and Planning the model
-4. 6~7 weeks : Building a model with Python - Softmax Regression
-5. 8 week : Analyzing Model Accuracy
+- 1~2 weeks : Setting goals and creating plans
+- 3~4 weeks : To study the basic of Neural Network - loss function, gradient descent, backpropagation, softmax, etc.
+- 5 week : Collecting the data and Planning the model
+- 6~7 weeks : Building a model with Python - Softmax Regression
+- 8 week : Analyzing Model Accuracy
 
 ## Dataset
 - MNIST Dataset : http://yann.lecun.com/exdb/mnist
@@ -25,6 +25,6 @@ Through this project, we will be able to discover another aspect of mathematics.
 1. Softmax Regression
 2. Convolutional Neural Network (CNN)
 
-## Results - RMSE error
+## Results - Train, Test Accuracy
 1. Softmax Regression
     Train Accuracy : 91%, Test Accuracy : 91%
