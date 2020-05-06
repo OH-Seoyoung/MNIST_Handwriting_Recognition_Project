@@ -1,4 +1,4 @@
-# MNIST_Handwriting_Recognition_Project(20200316 ~ 20200702)
+# MNIST_Handwriting_Recognition_Project(20200316~)
 - Recognition of MNIST handwriting images
 - Softmax Regression, CNN models
 
