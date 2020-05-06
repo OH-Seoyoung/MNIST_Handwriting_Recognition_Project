@@ -1,18 +1,24 @@
 # MNIST_Handwriting_Recognition_Project(20200316 ~ 20200702)
-### Project for the 4th-grade 'Comprehensive Design' Course - 오서영, 이정, 조지수, 이지수
+- Recognition of MNIST handwriting images
+- Softmax Regression, CNN models
 
-- Prediction of  Busan city's gas consumption from 2018-06 to 2019-05
-- Linear Regression, LSTM models
+### Project for the 4th-grade 'Comprehensive Design' Course - 오서영, 이정, 조지수, 이지수 (Department of Mathematics)
+- Mathematics is very widely used in artificial intelligence research.
+In this project, the goal is to learn mathematical concepts used in machine learning
+and finally to build artificial intelligence models. 
+Through this project, we will be able to discover another aspect of mathematics.
+
 
 ## Project Process
 1. 1~2 weeks : Setting goals and creating plans
-2. 3~4 weeks : To study the basic of Neural Network
+2. 3~4 weeks : To study the basic of Neural Network - loss function, gradient descent, backpropagation, softmax, etc.
 3. 5 week : Collecting the data and Planning the model
 4. 6~7 weeks : Building a model with Python - Softmax Regression
 5. 8 week : Analyzing Model Accuracy
 
 ## Dataset
 - MNIST Dataset : http://yann.lecun.com/exdb/mnist
+- Data input script : https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/tutorials/mnist
 
 ## Architecture
 1. Softmax Regression
