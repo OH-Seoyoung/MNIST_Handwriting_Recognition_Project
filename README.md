@@ -3,7 +3,7 @@
 - Softmax Regression, CNN models
 
 ### Project for the 4th-grade 'Comprehensive Design' Course 
-### - 오서영, 이정, 조지수, 이지수 (Department of Mathematics)
+#### - 오서영, 이정, 조지수, 이지수 (Department of Mathematics)
 - Mathematics is very widely used in artificial intelligence research.
 In this project, the goal is to learn mathematical concepts used in machine learning
 and finally to build artificial intelligence models. 
