@@ -12,10 +12,11 @@ Through this project, we will be able to discover another aspect of mathematics.
 
 ## Project Process
 - 1~2 weeks : Setting goals and creating plans
-- 3~4 weeks : To study the basic of Neural Network - loss function, gradient descent, backpropagation, softmax, etc.
+- 3~4 weeks : Studying the basic of Neural Network - loss function, gradient descent, backpropagation, softmax, etc.
 - 5 week : Collecting the data and Planning the model
 - 6~7 weeks : Building a model with Python - Softmax Regression
 - 8 week : Analyzing Model Accuracy
+- 9 week : Studying the basic of CNN(Convolutional Neural Network) - Architecture, Size of output, #parameters
 
 ## Dataset
 - MNIST Dataset : http://yann.lecun.com/exdb/mnist
