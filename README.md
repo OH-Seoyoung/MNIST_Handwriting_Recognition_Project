@@ -16,7 +16,10 @@ Through this project, we will be able to discover another aspect of mathematics.
 - 5 week : Collecting the data and Planning the model
 - 6~7 weeks : Building a model with Python - Softmax Regression
 - 8 week : Analyzing Model Accuracy
-- 9 week : Studying the basic of CNN(Convolutional Neural Network) - Architecture, Size of output, #parameters
+- 9~10 week : Studying the basic of CNN(Convolutional Neural Network) - Architecture, Size of output, #parameters
+- 11 week : Building a model with Python - CNN
+- 12 week : Analyzing Model Accuracy
+- 13 week : Test with 50 real Handwriting Data
 
 ## Dataset
 - MNIST Dataset : http://yann.lecun.com/exdb/mnist
@@ -29,3 +32,5 @@ Through this project, we will be able to discover another aspect of mathematics.
 ## Results - Train, Test Accuracy
 1. Softmax Regression
     Train Accuracy : 91%, Test Accuracy : 91%
+2. Convolutional Neural Network
+    Train Accuracy : 99%, Test Accuracy : 99%
