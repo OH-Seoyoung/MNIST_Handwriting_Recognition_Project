@@ -22,7 +22,7 @@ Through this project, we will be able to discover another aspect of mathematics.
 - 9~10 week : Studying the basic of CNN(Convolutional Neural Network) - Architecture, Size of output, #parameters
 - 11 week : Building a model with Python - CNN
 - 12 week : Analyzing Model Accuracy
-- 13 week : Test with 500 real Handwriting Data (50 people) [[real data collection]](https://github.com/OH-Seoyoung/MNIST_Handwriting_Recognition_Project/blob/master/real_data_collection.pdf)
+- 13 week : Test with 500 real Handwriting Data (50 people)     [[real data collection]](https://github.com/OH-Seoyoung/MNIST_Handwriting_Recognition_Project/blob/master/real_data_collection.pdf)
 
 
 ## Dataset
