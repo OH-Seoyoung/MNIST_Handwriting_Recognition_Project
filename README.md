@@ -9,6 +9,9 @@ In this project, the goal is to learn mathematical concepts used in machine lear
 and finally to build artificial intelligence models. 
 Through this project, we will be able to discover another aspect of mathematics.
 
+## Project Reprot
+- [[Report]]()
+- [[Presentation]]()
 
 ## Project Process
 - 1~2 weeks : Setting goals and creating plans
