@@ -1,4 +1,4 @@
-# MNIST_Handwriting_Recognition_Project (20200316~)
+# MNIST_Handwriting_Recognition_Project (20200316~20200623)
 - Recognition of MNIST handwriting images
 - Softmax Regression, CNN models
 
@@ -23,7 +23,7 @@ Through this project, we will be able to discover another aspect of mathematics.
 - 11 week : Building a model with Python - CNN
 - 12 week : Analyzing Model Accuracy
 - 13 week : Test with 500 real Handwriting Data (50 people)     [[real data collection]](https://github.com/OH-Seoyoung/MNIST_Handwriting_Recognition_Project/blob/master/real_data_collection.pdf)
-
+- 14 ~ 15 week : Finalize report and presentation
 
 ## Dataset
 - MNIST Dataset : http://yann.lecun.com/exdb/mnist
