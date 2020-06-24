@@ -10,8 +10,8 @@ and finally to build artificial intelligence models.
 Through this project, we will be able to discover another aspect of mathematics.
 
 ## Project Reprot
-- [[Report]]()
-- [[Presentation]]()
+- [[Report]](https://github.com/OH-Seoyoung/MNIST_Handwriting_Recognition_Project/blob/master/Project_final_report.pdf)
+- [[Presentation]](https://github.com/OH-Seoyoung/MNIST_Handwriting_Recognition_Project/blob/master/Project_final_presentaion.pdf)
 
 ## Project Process
 - 1~2 weeks : Setting goals and creating plans
@@ -22,7 +22,8 @@ Through this project, we will be able to discover another aspect of mathematics.
 - 9~10 week : Studying the basic of CNN(Convolutional Neural Network) - Architecture, Size of output, #parameters
 - 11 week : Building a model with Python - CNN
 - 12 week : Analyzing Model Accuracy
-- 13 week : Test with 50 real Handwriting Data
+- 13 week : Test with 500 real Handwriting Data (50 people) [real data collection]](https://github.com/OH-Seoyoung/MNIST_Handwriting_Recognition_Project/blob/master/real_data_collection.pdf)
+
 
 ## Dataset
 - MNIST Dataset : http://yann.lecun.com/exdb/mnist
@@ -32,7 +33,7 @@ Through this project, we will be able to discover another aspect of mathematics.
 1. Softmax Regression
 2. Convolutional Neural Network (CNN)
 
-## Results - Train, Test Accuracy
+## Result 1 - Train, Test Accuracy
 1. Softmax Regression
     Train Accuracy : 91%, Test Accuracy : 91%
 2. Convolutional Neural Network
