@@ -7,7 +7,7 @@
 In this project, the goal is to learn mathematical concepts used in machine learning
 and finally to build artificial intelligence models. 
 Through this project, we will be able to discover another aspect of mathematics.  
-- This project was maintained by 오서영, 이정, 조지수, 이지수 (Department of Mathematics)
+- This project is maintained by 오서영, 이정, 조지수, 이지수 (Department of Mathematics)
 
 ## Project Reprot
 - [[Report]](https://github.com/OH-Seoyoung/MNIST_Handwriting_Recognition_Project/blob/master/Project_final_report.pdf)
