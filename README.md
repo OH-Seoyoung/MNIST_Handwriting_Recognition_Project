@@ -35,9 +35,11 @@ Through this project, we will be able to discover another aspect of mathematics.
 **14-15 weeks** __ Finalize report and presentation  
 
 
-## Dataset
-- MNIST Dataset : http://yann.lecun.com/exdb/mnist
-- Data input script : https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/tutorials/mnist
+## Dataset  
+```
+[1] MNIST Dataset, http://yann.lecun.com/exdb/mnist  
+[2] Data input script, https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/tutorials/mnist  
+```
 
 ## Architecture
 1. Softmax Regression
