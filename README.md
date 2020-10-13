@@ -43,6 +43,8 @@ Through this project, we will be able to discover another aspect of mathematics.
 
 ## Results
 #### 1. Softmax Regression  
-Train Accuracy : 91%, Test Accuracy : 91%
+Train Accuracy : 91%  
+Test Accuracy : 91%  
 #### 2. Convolutional Neural Network  
-Train Accuracy : 99%, Test Accuracy : 99%
+Train Accuracy : 99%  
+Test Accuracy : 99%  
