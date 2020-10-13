@@ -41,12 +41,8 @@ Through this project, we will be able to discover another aspect of mathematics.
 [2] Data input script, https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/tutorials/mnist  
 ```
 
-## Architecture
-1. Softmax Regression
-2. Convolutional Neural Network (CNN)
-
 ## Results
-1. Softmax Regression  
+#### 1. Softmax Regression  
     Train Accuracy : 91%, Test Accuracy : 91%
-2. Convolutional Neural Network  
+#### 2. Convolutional Neural Network  
     Train Accuracy : 99%, Test Accuracy : 99%
