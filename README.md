@@ -9,9 +9,7 @@ and finally to build artificial intelligence models.
 Through this project, we will be able to discover another aspect of mathematics.  
 - This project is maintained by 오서영, 이정, 조지수, 이지수 (Department of Mathematics)
 
-## Project Reprot
-- [[Report]](https://github.com/OH-Seoyoung/MNIST_Handwriting_Recognition_Project/blob/master/Project_final_report.pdf)
-- [[Presentation]](https://github.com/OH-Seoyoung/MNIST_Handwriting_Recognition_Project/blob/master/Project_final_presentaion.pdf)
+[[Report]](https://github.com/OH-Seoyoung/MNIST_Handwriting_Recognition_Project/blob/master/Project_final_report.pdf) | [[Presentation]](https://github.com/OH-Seoyoung/MNIST_Handwriting_Recognition_Project/blob/master/Project_final_presentaion.pdf)
 
 ## Process
 **1-2 weeks** __ Setting goals and creating plans  
