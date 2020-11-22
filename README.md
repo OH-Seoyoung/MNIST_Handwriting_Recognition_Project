@@ -12,25 +12,25 @@ Through this project, we will be able to discover another aspect of mathematics.
 [[Report]](https://github.com/OH-Seoyoung/MNIST_Handwriting_Recognition_Project/blob/master/Project_final_report.pdf) | [[Presentation]](https://github.com/OH-Seoyoung/MNIST_Handwriting_Recognition_Project/blob/master/Project_final_presentaion.pdf)
 
 ## Process
-**1-2 weeks** __ Setting goals and creating plans  
+**1-2 weeks**. Setting goals and creating plans  
 
-**3-4 weeks** __ Studying the basic of Neural Network - loss function, gradient descent, backpropagation, softmax, etc.  
+**3-4 weeks**. Studying the basic of Neural Network - loss function, gradient descent, backpropagation, softmax, etc.  
 
-**5 week** __ Collecting the data and Planning the model  
+**5 week**. Collecting the data and Planning the model  
 
-**6-7 weeks** __ Building a model with Python - Softmax Regression  
+**6-7 weeks**. Building a model with Python - Softmax Regression  
 
-**8 week** __ Analyzing Model Accuracy  
+**8 week**. Analyzing Model Accuracy  
 
-**9-10 weeks** __ Studying the basic of CNN(Convolutional Neural Network) - Architecture, Size of output, #parameters  
+**9-10 weeks**. Studying the basic of CNN(Convolutional Neural Network) - Architecture, Size of output, #parameters  
 
-**11 week** __ Building a model with Python - CNN  
+**11 week**. Building a model with Python - CNN  
 
-**12 week** __ Analyzing Model Accuracy  
+**12 week**. Analyzing Model Accuracy  
 
-**13 week** __ Test with 500 real Handwriting Data (50 people) | [[Code]](https://github.com/OH-Seoyoung/MNIST_Handwriting_Recognition_Project/blob/master/CNN_Model_Test.ipynb)  
+**13 week**. Test with 500 real Handwriting Data (50 people) | [[Code]](https://github.com/OH-Seoyoung/MNIST_Handwriting_Recognition_Project/blob/master/CNN_Model_Test.ipynb)  
 
-**14-15 weeks** __ Finalize report and presentation  
+**14-15 weeks**. Finalize report and presentation  
 
 
 ## Dataset  
