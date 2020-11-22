@@ -28,7 +28,7 @@ Through this project, we will be able to discover another aspect of mathematics.
 
 **12 week** __ Analyzing Model Accuracy  
 
-**13 week** __ Test with 500 real Handwriting Data (50 people)     [[real data collection]](https://github.com/OH-Seoyoung/MNIST_Handwriting_Recognition_Project/blob/master/real_data_collection.pdf)  
+**13 week** __ Test with 500 real Handwriting Data (50 people) | [[Code]](https://github.com/OH-Seoyoung/MNIST_Handwriting_Recognition_Project/blob/master/CNN_Model_Test.ipynb)  
 
 **14-15 weeks** __ Finalize report and presentation  
 
@@ -40,9 +40,10 @@ Through this project, we will be able to discover another aspect of mathematics.
 ```
 
 ## Results
-#### 1. Softmax Regression  
+#### 1. Softmax Regression | [[Code]](https://github.com/OH-Seoyoung/MNIST_Handwriting_Recognition_Project/blob/master/1_Softmax_Regression_with_MNIST.ipynb)
 Train Accuracy : 91%  
 Test Accuracy : 91%  
-#### 2. Convolutional Neural Network  
+
+#### 2. Convolutional Neural Network | [[Code]](https://github.com/OH-Seoyoung/MNIST_Handwriting_Recognition_Project/blob/master/2_CNN_with_MNIST.ipynb)
 Train Accuracy : 99%  
 Test Accuracy : 99%  
