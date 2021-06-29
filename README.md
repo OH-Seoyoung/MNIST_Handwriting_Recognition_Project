@@ -1,6 +1,7 @@
-# MNIST Handwriting Recognition Project (20200316~20200623)
+# MNIST Handwriting Recognition Project
 - Recognition of MNIST handwriting images
 - Softmax Regression, CNN models
+- Mar. 16, 2020 ~ Jun. 23, 2020
 
 ### Project for the 4th-grade 'Comprehensive Design' Course 
 - Mathematics is very widely used in artificial intelligence research.
@@ -9,7 +10,7 @@ and finally to build artificial intelligence models.
 Through this project, we will be able to discover another aspect of mathematics.  
 - This project is maintained by 오서영, 이정, 조지수, 이지수 (Department of Mathematics)
 
-[[Report]](https://github.com/OH-Seoyoung/MNIST_Handwriting_Recognition_Project/blob/master/Project_final_report.pdf) | [[Presentation]](https://github.com/OH-Seoyoung/MNIST_Handwriting_Recognition_Project/blob/master/Project_final_presentaion.pdf)
+| [Report](https://github.com/OH-Seoyoung/MNIST_Handwriting_Recognition_Project/blob/master/Project_final_report.pdf) | [Presentation](https://github.com/OH-Seoyoung/MNIST_Handwriting_Recognition_Project/blob/master/Project_final_presentaion.pdf) |
 
 ## Process
 **1-2 weeks**. Setting goals and creating plans  
