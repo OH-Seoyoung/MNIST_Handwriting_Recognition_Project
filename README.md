@@ -13,25 +13,25 @@ Through this project, we will be able to discover another aspect of mathematics.
 | [Report](https://github.com/OH-Seoyoung/MNIST_Handwriting_Recognition_Project/blob/master/Project_final_report.pdf) | [Presentation](https://github.com/OH-Seoyoung/MNIST_Handwriting_Recognition_Project/blob/master/Project_final_presentaion.pdf) |
 
 ## Process
-**1-2 weeks**. Setting goals and creating plans  
+1. Setting goals and creating plans  
 
-**3-4 weeks**. Studying the basic of Neural Network - loss function, gradient descent, backpropagation, softmax, etc.  
+2. Studying the basic of Neural Network - loss function, gradient descent, backpropagation, softmax, etc.  
 
-**5 week**. Collecting the data and Planning the model  
+3. Collecting the data and Planning the model  
 
-**6-7 weeks**. Building a model with Python - Softmax Regression  
+4. Building a model with Python - Softmax Regression  
 
-**8 week**. Analyzing Model Accuracy  
+5. Analyzing Model Accuracy  
 
-**9-10 weeks**. Studying the basic of CNN(Convolutional Neural Network) - Architecture, Size of output, #parameters  
+6. Studying the basic of CNN(Convolutional Neural Network) - Architecture, Size of output, #parameters  
 
-**11 week**. Building a model with Python - CNN  
+7. Building a model with Python - CNN  
 
-**12 week**. Analyzing Model Accuracy  
+8. Analyzing Model Accuracy  
 
-**13 week**. Test with 500 real Handwriting Data (50 people) | [[Code]](https://github.com/OH-Seoyoung/MNIST_Handwriting_Recognition_Project/blob/master/CNN_Model_Test.ipynb)  
+9. Test with 500 real Handwriting Data (50 people) | [Code](https://github.com/OH-Seoyoung/MNIST_Handwriting_Recognition_Project/blob/master/CNN_Model_Test.ipynb)  
 
-**14-15 weeks**. Finalize report and presentation  
+10. Finalize report and presentation  
 
 
 ## Dataset  
@@ -41,10 +41,10 @@ Through this project, we will be able to discover another aspect of mathematics.
 ```
 
 ## Results
-#### 1. Softmax Regression | [[Code]](https://github.com/OH-Seoyoung/MNIST_Handwriting_Recognition_Project/blob/master/1_Softmax_Regression_with_MNIST.ipynb)
+#### 1. Softmax Regression | [Code](https://github.com/OH-Seoyoung/MNIST_Handwriting_Recognition_Project/blob/master/1_Softmax_Regression_with_MNIST.ipynb)
 Train Accuracy : 91%  
 Test Accuracy : 91%  
 
-#### 2. Convolutional Neural Network | [[Code]](https://github.com/OH-Seoyoung/MNIST_Handwriting_Recognition_Project/blob/master/2_CNN_with_MNIST.ipynb)
+#### 2. Convolutional Neural Network | [Code](https://github.com/OH-Seoyoung/MNIST_Handwriting_Recognition_Project/blob/master/2_CNN_with_MNIST.ipynb)
 Train Accuracy : 99%  
 Test Accuracy : 99%  
